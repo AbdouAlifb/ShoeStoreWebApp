@@ -1,0 +1,17 @@
+ul li a.active {
+    color: rgb(0, 215, 215); /* Change the color to your desired color */
+  }
+  .logout-button {
+    border-radius: 0;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  
+  .logout-button:hover,
+  .logout-button:focus {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  
